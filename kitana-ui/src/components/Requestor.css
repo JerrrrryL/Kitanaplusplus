@@ -1,0 +1,17 @@
+.pub {
+    font-weight: 600;
+    line-height: 2;
+    display: flex;
+    flex-wrap: nowrap;
+    color: rgb(0, 0, 0);
+    width: 50%;
+    padding-top: 3vh;
+    padding-left: 35vh;
+    padding-right: 30vh;
+}
+
+
+.authors {
+    font-weight: 300;
+    margin: 0 0 0 0;
+}
