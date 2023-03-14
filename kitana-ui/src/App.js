@@ -5,14 +5,13 @@ import Page from './components/Page'
 import Contributor from './components/Contributor';
 import Requestor from './components/Requestor';
 
+import "./App.css"
+
 class App extends Component {
   constructor(props) {
     super(props);
 
     this.state = {
-      datasetSelected: false,
-      datasetSelectedAnalyst: false,
-      policy: null,
     }
   }
 
